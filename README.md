@@ -3,6 +3,7 @@
 ## Gambaran Umum
 Repository ini berisi portfolio analisis data yang berfokus pada pengolahan dan analisis data koperasi 
 skala nasional dalam periode 2019–2025.
+“Hasil analisis digunakan untuk mendukung monitoring kinerja koperasi dan pengambilan keputusan berbasis data.”
 
 Project ini menunjukkan proses pengolahan data historis mulai dari pembersihan data, 
 agregasi, hingga penyajian insight dalam bentuk dashboard interaktif menggunakan Power BI.
