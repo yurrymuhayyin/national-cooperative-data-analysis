@@ -3,6 +3,9 @@
 -- Query agregasi data anggota koperasi berdasarkan wilayah
 -- dan tahun laporan (2019–2025).
 -- Struktur dan logika disederhanakan untuk keperluan portfolio.
+-- Catatan:
+-- Nama tabel, kolom, dan struktur data telah disederhanakan
+-- untuk keperluan portfolio dan menjaga kerahasiaan data.
 -- =========================================================
 
 SELECT
