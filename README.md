@@ -13,6 +13,10 @@ agregasi, hingga penyajian insight dalam bentuk dashboard interaktif menggunakan
 > dan kemampuan analisis data, tanpa menampilkan data rahasia atau sensitif.
 
 ---
+## Dashboard Overview
+![Dashboard Kinerja Koperasi Nasional](powerbi/dashboard_page1.png)
+
+---
 
 ## Tujuan Analisis
 - Menganalisis tren pertumbuhan koperasi dari tahun ke tahun
