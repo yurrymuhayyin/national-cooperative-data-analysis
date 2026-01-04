@@ -14,7 +14,7 @@ agregasi, hingga penyajian insight dalam bentuk dashboard interaktif menggunakan
 
 ---
 ## Dashboard Overview
-![Dashboard Kinerja Koperasi Nasional](powerbi/dashboard_page1.png)
+![Dashboard Kinerja Koperasi Nasional](powerbi/Dashboard_page1.png)
 
 ---
 
