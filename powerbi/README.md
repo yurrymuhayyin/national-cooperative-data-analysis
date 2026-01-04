@@ -21,7 +21,6 @@ Menampilkan ringkasan indikator utama secara nasional:
 - Aset
 - Selisih Hasil Usaha (SHU)
 - Modal
-- Volume usaha koperasi
 
 Visual utama:
 - KPI cards
