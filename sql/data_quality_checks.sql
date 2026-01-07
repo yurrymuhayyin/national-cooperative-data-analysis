@@ -11,6 +11,7 @@
 --
 -- Catatan:
 -- Nama tabel dan kolom disederhanakan untuk keperluan portfolio.
+-- Query ini merepresentasikan proses data quality check yang dilakukan pada tahap awal analisis.
 -- =========================================================
 
 -- 1. Cek data anggota kosong atau nol
